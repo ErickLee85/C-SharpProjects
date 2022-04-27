@@ -24,7 +24,7 @@ namespace DailyReport
             bool studyHelp = Convert.ToBoolean(needHelp); //Converting string to boolean value
             Console.WriteLine("Were there any positive experiences you'd like to share? Please give specifics.");
             string experience = Console.ReadLine();
-            Console.WriteLine("I there any other feedback you'd like to provide? Please be specific");
+            Console.WriteLine("Is there any other feedback you'd like to provide? Please be specific");
             string feedback = Console.ReadLine();
             Console.WriteLine("How many hours did you study today?");
             string hours = Console.ReadLine();
