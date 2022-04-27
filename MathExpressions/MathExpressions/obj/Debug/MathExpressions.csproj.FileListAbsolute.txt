@@ -1,0 +1,7 @@
+C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\MathExpressions\MathExpressions\bin\Debug\MathExpressions.exe.config
+C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\MathExpressions\MathExpressions\bin\Debug\MathExpressions.exe
+C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\MathExpressions\MathExpressions\bin\Debug\MathExpressions.pdb
+C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\MathExpressions\MathExpressions\obj\Debug\MathExpressions.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\MathExpressions\MathExpressions\obj\Debug\MathExpressions.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\MathExpressions\MathExpressions\obj\Debug\MathExpressions.exe
+C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\MathExpressions\MathExpressions\obj\Debug\MathExpressions.pdb
