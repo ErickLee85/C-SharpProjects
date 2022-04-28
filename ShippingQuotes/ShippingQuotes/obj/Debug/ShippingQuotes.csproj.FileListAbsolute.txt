@@ -1,0 +1,7 @@
+C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\ShippingQuotes\ShippingQuotes\bin\Debug\ShippingQuotes.exe.config
+C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\ShippingQuotes\ShippingQuotes\bin\Debug\ShippingQuotes.exe
+C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\ShippingQuotes\ShippingQuotes\bin\Debug\ShippingQuotes.pdb
+C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\ShippingQuotes\ShippingQuotes\obj\Debug\ShippingQuotes.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\ShippingQuotes\ShippingQuotes\obj\Debug\ShippingQuotes.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\ShippingQuotes\ShippingQuotes\obj\Debug\ShippingQuotes.exe
+C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\ShippingQuotes\ShippingQuotes\obj\Debug\ShippingQuotes.pdb

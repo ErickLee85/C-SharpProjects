@@ -13,15 +13,15 @@ namespace BooleanLogic
             Console.WriteLine("Car Insurance Application");
 
             Console.WriteLine("What is your age?");
-            string userAge = Console.ReadLine();
+            string userAge = Console.ReadLine();//create string variable with value given from user input
             int user1Age = Convert.ToInt32(userAge);//Casting string to int data type
 
             Console.WriteLine("Have you ever had a dui? Enter \"true\" or \"false\" ");// using back slashes as escape characters for double quotes
-            string dui = Console.ReadLine();
+            string dui = Console.ReadLine();//create string variable with value given from user input
             bool user1Dui = Convert.ToBoolean(dui);//Casting string to boolean value
 
             Console.WriteLine("How many speeding tickets do you have?");
-            string tickets = Console.ReadLine();
+            string tickets = Console.ReadLine();//create string variable with value given from user input
             int user1Tickets = Convert.ToInt32(tickets);//Casting string to int data type
 
             bool qualifications = (user1Age > 15 && user1Dui == false && user1Tickets <= 3); //Boolean conditional statements using &&, every condition must be true
