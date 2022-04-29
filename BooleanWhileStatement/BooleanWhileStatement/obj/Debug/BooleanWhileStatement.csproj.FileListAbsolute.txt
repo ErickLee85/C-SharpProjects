@@ -1,0 +1,7 @@
+C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\BooleanWhileStatement\BooleanWhileStatement\bin\Debug\BooleanWhileStatement.exe.config
+C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\BooleanWhileStatement\BooleanWhileStatement\bin\Debug\BooleanWhileStatement.exe
+C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\BooleanWhileStatement\BooleanWhileStatement\bin\Debug\BooleanWhileStatement.pdb
+C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\BooleanWhileStatement\BooleanWhileStatement\obj\Debug\BooleanWhileStatement.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\BooleanWhileStatement\BooleanWhileStatement\obj\Debug\BooleanWhileStatement.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\BooleanWhileStatement\BooleanWhileStatement\obj\Debug\BooleanWhileStatement.exe
+C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\BooleanWhileStatement\BooleanWhileStatement\obj\Debug\BooleanWhileStatement.pdb

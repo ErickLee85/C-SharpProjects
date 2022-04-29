@@ -1,7 +1,0 @@
-C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\Branching\Branching\bin\Debug\Branching.exe.config
-C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\Branching\Branching\bin\Debug\Branching.exe
-C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\Branching\Branching\bin\Debug\Branching.pdb
-C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\Branching\Branching\obj\Debug\Branching.csproj.AssemblyReference.cache
-C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\Branching\Branching\obj\Debug\Branching.csproj.CoreCompileInputs.cache
-C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\Branching\Branching\obj\Debug\Branching.exe
-C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\Branching\Branching\obj\Debug\Branching.pdb

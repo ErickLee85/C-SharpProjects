@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32413.511
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Branching", "Branching\Branching.csproj", "{F9FA0929-739B-4A70-8F8C-A1C1F66B3967}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooleanWhileStatement", "BooleanWhileStatement\BooleanWhileStatement.csproj", "{5FC3ABD1-1EF4-4C4E-8291-55D55F05464F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F9FA0929-739B-4A70-8F8C-A1C1F66B3967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F9FA0929-739B-4A70-8F8C-A1C1F66B3967}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F9FA0929-739B-4A70-8F8C-A1C1F66B3967}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F9FA0929-739B-4A70-8F8C-A1C1F66B3967}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FC3ABD1-1EF4-4C4E-8291-55D55F05464F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FC3ABD1-1EF4-4C4E-8291-55D55F05464F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FC3ABD1-1EF4-4C4E-8291-55D55F05464F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FC3ABD1-1EF4-4C4E-8291-55D55F05464F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {BBAA5D89-9552-494D-96DE-B167688C7373}
+		SolutionGuid = {2B1BCC10-5D5C-4DAD-ACC8-446313230BC0}
 	EndGlobalSection
 EndGlobal
