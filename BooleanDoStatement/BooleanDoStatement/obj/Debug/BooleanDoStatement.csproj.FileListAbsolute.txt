@@ -1,0 +1,7 @@
+C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\BooleanDoStatement\BooleanDoStatement\bin\Debug\BooleanDoStatement.exe.config
+C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\BooleanDoStatement\BooleanDoStatement\bin\Debug\BooleanDoStatement.exe
+C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\BooleanDoStatement\BooleanDoStatement\bin\Debug\BooleanDoStatement.pdb
+C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\BooleanDoStatement\BooleanDoStatement\obj\Debug\BooleanDoStatement.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\BooleanDoStatement\BooleanDoStatement\obj\Debug\BooleanDoStatement.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\BooleanDoStatement\BooleanDoStatement\obj\Debug\BooleanDoStatement.exe
+C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\BooleanDoStatement\BooleanDoStatement\obj\Debug\BooleanDoStatement.pdb
