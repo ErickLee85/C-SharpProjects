@@ -13,9 +13,9 @@ namespace BooleanDoStatement
             Console.WriteLine("What planet in our Solar System has the fastest rotational speed?");
             Console.WriteLine("Choices:\n'Mercury'\n'Venus'\n'Earth'\n'Mars'\n'Jupiter'\n'Saturn'\n'Uranus'\n'Neptune'\n'Pluto'");
             string answer = Convert.ToString(Console.ReadLine());
-            bool isGuessed = answer == "Jupiter";
+            bool isGuessed = answer == "Jupiter"; //setting boolean value to true if answer is Jupiter
 
-            do
+            do //execute a do statement to force program to run a switch loop in the event initial user input may prevent loop from running
             {
                 switch (answer)
                 {
