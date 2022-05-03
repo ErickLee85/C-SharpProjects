@@ -72,8 +72,11 @@ namespace IterationAssignment
             
 
             List<string> Cars = new List<string>() { "Honda", "Acura", "Nissan", "Infinity", "Chevrolet", "Cadillac", "Honda", "Nissan", "Cadillac" };
-
-
+            Console.WriteLine("List of Cars: ");
+            foreach (string car in Cars)
+            {
+                Console.WriteLine(car);
+            }
             IEnumerable<string> duplicates = Cars.GroupBy(x => x) //finding duplicate elements
                                  .SelectMany(g => g.Skip(1));
 
