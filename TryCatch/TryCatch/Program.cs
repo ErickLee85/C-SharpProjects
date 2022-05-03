@@ -13,7 +13,7 @@ namespace TryCatch
             try
             {
                 List<int> ericksList = new List<int>() { 10, 20, 30, 40, 50, 60, 70, 80, 90, 100 }; //list of integers
-                Console.WriteLine("Enter any number to be divided by each number in my list.");
+                Console.WriteLine("Enter any number to divide each number in my list.");
                 int usersNumber = Convert.ToInt32(Console.ReadLine()); //converting users input to integer 
 
                 for (int i = 0; i < ericksList.Count; i++) //creating for loop to iterate through each element of my list so i can perform math formulas.
