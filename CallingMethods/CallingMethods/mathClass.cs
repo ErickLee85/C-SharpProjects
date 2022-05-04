@@ -8,16 +8,16 @@ namespace CallingMethods
 {
     class mathClass //name of class
     {
-        public static decimal Multiply(decimal methodOne) //parameter for this method, but will become argument with theAnswer variable when called 
+        public static int Multiply(int methodOne) //parameter for this method, but will become argument with theAnswer variable when called 
         {
             return  methodOne * 10;
         }
-       public static decimal Division(decimal methodTwo) 
+       public static int Division(int methodTwo) 
         {
             return methodTwo / 10;
         }
 
-        public static decimal Subtraction(decimal methodThree) 
+        public static int Subtraction(int methodThree) 
         {
             return methodThree - 10;
         }

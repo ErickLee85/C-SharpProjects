@@ -16,13 +16,13 @@ namespace CallingMethods
                 try
                 {
                     Console.WriteLine("Enter any number to do some math operations on using a Math class and 3 different Methods!");
-                    decimal theAnswer = Convert.ToDecimal(Console.ReadLine()); //casting users input into decimal! Always good to have the option for decimal just in case.
+                    int theAnswer = Convert.ToInt32(Console.ReadLine()); //casting users input into an integer
 
-                    decimal firstAnswer = mathClass.Multiply(theAnswer); //defining decimal variable by calling the Class "mathClass" and the method "Multiply" and passing in the argument "theAnswer" to my Method
+                    int firstAnswer = mathClass.Multiply(theAnswer); //defining int variable by calling the Class "mathClass" and the method "Multiply" and passing in the argument "theAnswer" to my Method
 
-                    decimal secondAnswer = mathClass.Division(theAnswer);
+                    int secondAnswer = mathClass.Division(theAnswer);
 
-                    decimal thirdAnswer = mathClass.Subtraction(theAnswer);
+                    int thirdAnswer = mathClass.Subtraction(theAnswer);
 
                     Console.WriteLine(theAnswer + " * 10 : " + firstAnswer +
                                       "\n" + theAnswer + " / 10: " + secondAnswer +
