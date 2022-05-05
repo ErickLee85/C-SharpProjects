@@ -18,7 +18,7 @@ namespace MainMethod
             int secondresults = theObject.methodOne(100.5m); //passing in decimal as argument to methodOne
             Console.WriteLine(secondresults);
 
-            int thirdResults = theObject.methodOne("5"); //passing in string as argument to methodOne
+            int thirdResults = theObject.methodOne("5"); //passing in string 
             Console.WriteLine(thirdResults);
             Console.ReadLine();
 
