@@ -10,7 +10,7 @@ namespace MethodAssignment
     {
         static void Main(string[] args)
         {
-            ericksClass theOjbect = new ericksClass(); //creating new objects from Class ericksClass 
+            ericksClass theOjbect = new ericksClass(); //creating new object from Class ericksClass 
             Console.WriteLine("Enter two numbers, one at a time.\nFirst choice: "); 
             int firstNumber = Convert.ToInt32(Console.ReadLine()); //casting string to integer
 
