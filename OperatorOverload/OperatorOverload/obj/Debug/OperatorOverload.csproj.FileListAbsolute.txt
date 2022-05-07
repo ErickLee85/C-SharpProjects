@@ -1,0 +1,7 @@
+C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\OperatorOverload\OperatorOverload\bin\Debug\OperatorOverload.exe.config
+C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\OperatorOverload\OperatorOverload\bin\Debug\OperatorOverload.exe
+C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\OperatorOverload\OperatorOverload\bin\Debug\OperatorOverload.pdb
+C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\OperatorOverload\OperatorOverload\obj\Debug\OperatorOverload.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\OperatorOverload\OperatorOverload\obj\Debug\OperatorOverload.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\OperatorOverload\OperatorOverload\obj\Debug\OperatorOverload.exe
+C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\OperatorOverload\OperatorOverload\obj\Debug\OperatorOverload.pdb

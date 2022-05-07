@@ -13,6 +13,9 @@ namespace Polymorphism
 
             IQuittable quittable = new Employee();
 
+            Employee newEmployee = new Employee();
+            newEmployee.Quit();
+
 
             quittable.Quit(); //calling inherited interface method Quit()
         }
