@@ -10,10 +10,6 @@ namespace OperatorOverload
     {
         public int Id { get; set; } //Id property
 
-        public Employee (int Id, string Name)
-        {
-            this.Id = Id;
-        }
 
         public static bool operator == (Employee first, Employee second) //overloading bool operator == (true)
         {
