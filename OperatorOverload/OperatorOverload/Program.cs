@@ -10,11 +10,11 @@ namespace OperatorOverload
     {
         static void Main(string[] args)
         {
-            Employee Erick = new Employee(); //instantiating new Employee class objects
-            Employee Jack = new Employee();
+            Employee Erick = new Employee(1, "erick"); //instantiating new Employee class objects
+            Employee Jack = new Employee(3, "Jack");
 
-            Erick.Id = 1; //setting id's
-            Jack.Id = 3;
+            //Erick.Id = 1; //setting id's
+            //Jack.Id = 3;
 
             Console.WriteLine($"Ericks Id: {Erick.Id}");
             Console.WriteLine($"Jacks Id: {Jack.Id}");
