@@ -10,13 +10,11 @@ namespace Polymorphism
     {
         static void Main(string[] args)
         {
-            Employee newEmployee = new Employee(); //instantiating new Employee object
 
-            newEmployee.firstName = "Erick";
-            newEmployee.lastName = "Crowne";
-            newEmployee.SayName();
+            IQuittable quittable = new Employee();
 
-            newEmployee.Quit(); //calling inherited interface method Quit()
+
+            quittable.Quit(); //calling inherited interface method Quit()
         }
     }
 }
