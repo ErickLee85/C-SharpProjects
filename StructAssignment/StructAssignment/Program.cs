@@ -19,7 +19,7 @@ namespace StructAssignment
 
             Number number = new Number(); //instantiating object of struct
 
-            number.Amount = 500; //setting value to property
+            number.Amount = 500.25m; //setting value to property
 
             Console.WriteLine($"The value of Amount in the struct Number is {number.Amount}."); //printing value to screen
             Console.ReadLine();
