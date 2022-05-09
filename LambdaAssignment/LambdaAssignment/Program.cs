@@ -86,22 +86,23 @@ namespace LambdaAssignment
 
             Console.WriteLine("This list of Employees named Joe was iterated by a foreach loop.");
 
+            List<Employee> joesList = new List<Employee>(); //new list for employees named joe
             foreach (Employee name in myList) //foreach loop
             {
                if (name.firstName == "Joe") 
                 {
-                    List<Employee> joesList = new List<Employee>(); //new list for employees named joe
+ 
                     joesList.Add(name); //adding to joesList
-                    foreach (Employee joe in joesList)
-                    {
-                        Console.WriteLine(joe.firstName + " " + joe.lastName);
-                    }   
                 }
 
             }
-            
+            foreach (Employee joe in joesList)
+            {
+                Console.WriteLine($"{joe.firstName} {joe.lastName}");
+            }
 
-          
+
+
 
             List<Employee> lambdaMade = new List<Employee>();
             lambdaMade = myList.Where(x => x.firstName == "Joe").ToList(); //lambda function for Employees first name == Joe, added to lambdaMade list

@@ -27,7 +27,7 @@ namespace ParsingEnums
             try             //TRY CATCH BLOCK
             {
                 day = (DaysOfTheWeek)Enum.Parse(typeof(DaysOfTheWeek), value); //if this statement is true...
-                Console.WriteLine($"{value}, now thats a good day.");
+                Console.WriteLine($"{day}, now thats a good day.");
                 Console.ReadLine();
             }
             catch (Exception ex)
