@@ -1,0 +1,7 @@
+C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\Input\Input\bin\Debug\Input.exe.config
+C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\Input\Input\bin\Debug\Input.exe
+C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\Input\Input\bin\Debug\Input.pdb
+C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\Input\Input\obj\Debug\Input.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\Input\Input\obj\Debug\Input.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\Input\Input\obj\Debug\Input.exe
+C:\Users\erick\OneDrive\Documents\GitHub\C-SharpProjects\Input\Input\obj\Debug\Input.pdb
