@@ -26,7 +26,7 @@ namespace TryCatchException
 
                 var usersBirthday = DateTime.Today.AddYears(-usersAge);
 
-                Console.WriteLine(${usersBirthday}");
+                Console.WriteLine($"{usersBirthday}");
                 Console.Read();
             }
             catch (ExceptionHandling)
