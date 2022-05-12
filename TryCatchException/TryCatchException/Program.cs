@@ -24,9 +24,11 @@ namespace TryCatchException
                     throw new ExceptionHandling();
                 }
 
-                var usersBirthday = DateTime.Today.AddYears(-usersAge);
+                DateTime currentDate = DateTime.Now;
+                int currentYear = currentDate.Year;
+                int birthYear = currentYear - usersAge;
 
-                Console.WriteLine($"{usersBirthday}");
+                Console.WriteLine($"You were born in: {birthYear}");
                 Console.Read();
             }
             catch (ExceptionHandling)
