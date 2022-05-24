@@ -1,6 +1,7 @@
-## Here a couple of my projects I created using C# and the .NET Framework:
-[Car Insurance] (https://github.com/ErickLee85/C-SharpProjects/tree/main/CarInsurance)
-<br>[Poker Game]  (https://github.com/ErickLee85/C-SharpProjects/tree/main/TwentyOne)
+These are a few projects I created using C# and the .NET Framework!
+## Apps:
+[Car Insurance](https://github.com/ErickLee85/C-SharpProjects/tree/main/CarInsurance)
+<br>[Poker Game](https://github.com/ErickLee85/C-SharpProjects/tree/main/TwentyOne)
 
 <hr> 
 
