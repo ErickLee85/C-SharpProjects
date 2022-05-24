@@ -60,7 +60,7 @@ namespace CarInsurance.Controllers
                     insuree.Quote += 100;
                 }
 
-                if (userAge > 19 & userAge < 25)
+                if (userAge >= 19 & userAge <= 25)
                 {
                     insuree.Quote += 50;
                 }
