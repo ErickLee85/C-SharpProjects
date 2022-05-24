@@ -1,1 +1,3 @@
-# This Repository will house all of my C# Projects from my school: The Tech Academy.
+# Here a couple of my projects I created using C# and the .NET Framework!
+
+## Car Insurance APP
