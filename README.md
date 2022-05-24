@@ -1,5 +1,4 @@
 ## These are a few projects I created using C# and the .NET Framework!
-## Apps:
 [Car Insurance](https://github.com/ErickLee85/C-SharpProjects/tree/main/CarInsurance)
 <br>[Poker Game](https://github.com/ErickLee85/C-SharpProjects/tree/main/TwentyOne)
 
